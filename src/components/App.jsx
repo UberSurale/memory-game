@@ -7,7 +7,7 @@ import { getImages } from '../data.js';
 import { results } from '../data.js';
 
 function App() {
-    const [page, setPage] = React.useState(AppRoute.Results);
+    const [page, setPage] = React.useState(AppRoute.Initial);
     const [result, setResult] = React.useState(0);
     const [images, setImages] = React.useState([]);
     const [gameType, setGameType] = React.useState(null);
