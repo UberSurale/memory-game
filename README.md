@@ -6,8 +6,6 @@ This is a small game that helps you to train your memory and It's build entirely
 
 ## Demo
 
-Insert gif or link to demo
-
 Initial Screen:
 
 ![Recording 2023-07-27 115218](https://github.com/UberSurale/memory-game/assets/104767006/da93b699-dd4d-4adc-8b9e-c12a7bbdfe08)
